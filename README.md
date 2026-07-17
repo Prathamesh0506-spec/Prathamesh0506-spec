@@ -1,10 +1,13 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=160&section=header&text=Hii%20Prathamesh%20Here!&fontSize=48&fontColor=ffffff"
-    alt="banner"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=125&section=header&text=Hii%20Prathamesh%20Here!&fontSize=40&fontColor=ffffff"
+    alt="Banner"
+    width="100%"
   />
 </p>
 
-<h3 align="center">
-  Exploring How AI and Traditional Software Development Can Work Together.
-</h3>
+<p align="center">
+  <sub>
+    <b>Exploring How AI and Traditional Software Development Can Work Together.</b>
+  </sub>
+</p>
