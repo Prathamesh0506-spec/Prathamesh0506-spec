@@ -6,5 +6,5 @@
 </p>
 
 <h3 align="center">
-  Exploring how AI and traditional software development can work together.
+  Exploring How AI and Traditional Software Development Can Work Together.
 </h3>
